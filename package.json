@@ -1,9 +1,9 @@
 {
   "name": "splayer",
   "version": "1.1.7",
-  "author": "十八导航",
-  "home": "https://dh.ufoxvpn.club/",
-  "github": "https://dh.ufoxvpn.club/",
+  "author": "壹蛋",
+  "home": "https://ooooo.uno/",
+  "github": "https://ooooo.uno/",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
